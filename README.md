@@ -5,7 +5,7 @@ The simple snake game on the windows console which written using cpp
 
 ---
 ### 🎬What is it
-![files](git/Screenshot.png)
+![foto](files/Screenshot.png)
 
 ---
 ### 📲Contacts
