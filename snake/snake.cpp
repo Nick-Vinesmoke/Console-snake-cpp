@@ -33,7 +33,7 @@ void GameOver()
 {
     system("cls");
     cout << "                    GAMEOVER!!!\n";
-    cout << "                    Schore: "<< score<<"\n";
+    cout << "                    Score: "<< score<<"\n";
     gameOver = true;
     system("pause");
 }
